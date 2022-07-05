@@ -1,7 +1,7 @@
 # RichK's GitHub Homepage
 
 ## About Me
-I used to do programming for a living, but now I'm a just a hobbiest. I've learned, and then forgotten, how to use many different programming languages in the past. When I have the time and the mood hits me, I like writing code and working out how to make useful software, mainly for myself and maybe my friends and family. I'm not looking for another coding job - things tend to cease being fun when you HAVE TO do them.
+I used to do programming for a living, but now I'm just a hobbiest. I've learned, and then forgotten, how to use many different programming languages in the past. When I have the time and the mood hits me, I like writing code and working out how to make useful software, mainly for myself and maybe my friends and family. I'm not looking for another coding job - things tend to cease being fun when you HAVE TO do them.
 
 ## Goals
 1. As time goes by the number of languages, frameworks, libraries, etc. seems to expand quickly, and even the implementations of those are constantly changing. This makes it practically impossible for a single person to keep current with all the trends in software development, and requires one to restrict onself to a select few. My current focus is DotNet/C#, which I'm mostly doing for the Windows desktop. The reason for concentrating on DotNet/C# is that I'd like to find and master(?) the smallest set of languages that I can use for just about any environment (desktop, phone, tablet, web) and DotNet seems to be (IMO) the best bet for that at the moment - though there are other competitors (I experimented with Flutter a while back but it didn't really support desktop then and learning materials were a bit sparse.)
